@@ -37,7 +37,8 @@ systemctl restart networking (NetworkManager)
 
 ___________________________________________________________________________________________
 
-![image](https://github.com/borpov/d/assets/170978905/a233feff-b1f8-45ef-a097-af7d65297bec)
+![image](https://github.com/borpov/d/assets/170978905/ada8f1f3-be6a-4ed5-a183-76fb404d29b5)
+
 
                  nano /etc/apt/sources.list
 
