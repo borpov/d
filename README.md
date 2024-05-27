@@ -36,6 +36,12 @@ systemctl restart networking (NetworkManager)
 ![image](https://github.com/DimaDanil/demo/assets/170974285/df5def94-c74b-4e84-87f2-8ac7fc3ac4d2)
 
 ___________________________________________________________________________________________
+
+![image](https://github.com/borpov/d/assets/170978905/a233feff-b1f8-45ef-a097-af7d65297bec)
+
+                 nano /etc/apt/sources.list
+
+___________________________________________________________________________________________
 Маршрутизация транзитных IP-пакетов
 
     nano /etc/sysctl.conf
