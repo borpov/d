@@ -42,6 +42,7 @@ ________________________________________________________________________________
     nano /etc/apt/sources.list
 
 Прописываем:
+
 1
 
     deb http://deb.debian.org/debian bookworm main non-free-firmware contrib non-free
