@@ -1,6 +1,7 @@
     https://github. com/ abdurrah1m/DEMO2024
 
     h[ttp://wiki. pantsuh.ru/ ru/Demo-2024 /задание1-1](http://wiki.pantsuh.ru/ru/Demo-2024/задание1-1)
+[решебник к демке.docx](https://github.com/borpov/d/files/15465237/default.docx)
 
 1. Выполните базовую настройку всех устройств:
 
