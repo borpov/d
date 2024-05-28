@@ -1,6 +1,6 @@
     https://github. com/ abdurrah1m/DEMO2024
 
-    http://wiki. pantsuh.ru/ ru/Demo-2024 /задание1-1
+    h[ttp://wiki. pantsuh.ru/ ru/Demo-2024 /задание1-1](http://wiki.pantsuh.ru/ru/Demo-2024/задание1-1)
 
 1. Выполните базовую настройку всех устройств:
 
@@ -284,8 +284,8 @@ ________________________________________________________________________________
     cp /usr/share/doc/dhcp-server/dhcpd6.conf.example /etc/dhcp/dhcpd6.conf
 
     nano /etc/dhcp/dhcpd6.conf
-    
-    ![image](https://github.com/borpov/demo/assets/170978905/5a7dba20-4ce5-4c09-9b3b-57968e349702)
+ 
+![image](https://github.com/borpov/demo/assets/170978905/5a7dba20-4ce5-4c09-9b3b-57968e349702)
 
     systemctl enable --now dhcpd6  Перезагружаем сетевой интерфейс на HQ-SRV
     
@@ -293,7 +293,7 @@ ________________________________________________________________________________
 
     journalctl -f -u dhcpd6.service
 
-    ![image](https://github.com/borpov/demo/assets/170978905/5283e6cf-d377-4056-a567-1a73618341bd)
+ ![image](https://github.com/borpov/demo/assets/170978905/5283e6cf-d377-4056-a567-1a73618341bd)
 
     systemctl restart dhcpd6
 
@@ -371,7 +371,7 @@ ________________________________________________________________________________
 
     nano etc/nftable/hq-r.nft
 
-    ![image](https://github.com/borpov/demo/assets/170978905/8fc908d2-1857-45d2-822d-0b87df41b707)
+![image](https://github.com/borpov/demo/assets/170978905/8fc908d2-1857-45d2-822d-0b87df41b707)
 
     systemctl restart nftables
 
