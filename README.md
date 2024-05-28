@@ -29,6 +29,7 @@ _____________
 
         nmtui
 ![image](https://github.com/DimaDanil/demo/assets/170974285/e44b609f-3dfd-4f41-9dbf-85964414762a)
+
 systemctl restart networking (NetworkManager)
 
 ![image](https://github.com/DimaDanil/demo/assets/170974285/73b5acb9-ef1e-49c1-b1a9-c71c8e427060)
